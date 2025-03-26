@@ -1,0 +1,94 @@
+/* Algemene stijlen */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Grijze achtergrond */
+}
+
+header {
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: #393101;
+    color: #ffffff;
+}
+
+.home {
+    background-color: #d6d6d6; /* Lichtgrijze achtergrond voor homepagina */
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+}
+ 
+/* Zorg ervoor dat de achtergrondkleur consistent is */
+body {
+    background-color: #f8f9fa; /* Lichtgrijze achtergrond */
+}
+
+/* Product afbeelding styling */
+.product-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%; /* Maak de afbeelding rond */
+    margin-bottom: 10px;
+}
+
+/* Card styling */
+.card {
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 1.25rem;
+}
+
+.add-to-cart {
+    background-color: #28a745;
+    color: white;
+    border: none;
+}
+
+.add-to-cart:hover {
+    background-color: #218838;
+}
+
+/* Custom styles for the button */
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Voorbeeld van custom CSS in style.css */
+body {
+    background-color: #f8f9fa;
+}
+
+.card-img-top {
+    border-radius: 50%; /* Maak afbeeldingen cirkelvormig */
+}
+
+.products .card {
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+} 
+
