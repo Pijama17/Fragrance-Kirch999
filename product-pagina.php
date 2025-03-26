@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    
  
     <!-- Navbar -->
     <?php include 'menu.php'; ?>

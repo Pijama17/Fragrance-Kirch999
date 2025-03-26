@@ -8,6 +8,7 @@ $email = $_POST['email'];
 $message = $_POST['message'];
 $address = $_POST['address'];
 
+
 // Informatie naar de database sturen
 $stmt = $pdo->prepare("INSERT INTO contact (name, email, message, address) VALUES (?, ?, ?, ?)");
 $stmt->execute([$name, $email, $message, $address]);

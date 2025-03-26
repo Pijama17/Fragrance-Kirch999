@@ -245,6 +245,7 @@ unset($_SESSION['cart']);
                             </div>
                         </div>
                         
+                        
                         <div class="order-items">
                             <h5 class="text-center mb-4">Uw bestelling</h5>
                             <?php foreach ($order['items'] as $item): ?>

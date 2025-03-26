@@ -20,6 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $customer_email = $_POST['customer_email'] ?? 'Geen email';
     $order_details = $_POST['order_details'] ?? 'Geen details';
     $total_price = $_POST['total_price'] ?? 0.00;
+    
 
     try {
         // Bestelling opslaan in de database

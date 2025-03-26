@@ -96,3 +96,4 @@ if (count($filtered_products) > 0) {
     echo "<p>Geen producten gevonden voor je zoekopdracht: <strong>" . $query . "</strong> in de categorie: <strong>" . ($category ? $category : 'Alle categorieën') . "</strong>.</p>";
 }
 ?>
+

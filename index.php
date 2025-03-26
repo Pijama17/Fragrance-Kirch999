@@ -295,6 +295,7 @@
             </form>
         </div>
     </div>
+    
 
     <!-- Featured Products -->
     <section class="featured-section">

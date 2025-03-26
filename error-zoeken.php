@@ -22,6 +22,7 @@
         .navbar a {
             color: white !important;
         }
+        
 
         /* Error message styling */
         .error-message {
