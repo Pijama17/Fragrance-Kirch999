@@ -223,7 +223,7 @@
                     <img src="images/jean paul1.jpg" class="img-fluid product-image" alt="Gisada Pure Perfection">
                 </div>
                 <div class="col-lg-6">
-                    <h1 class="product-title">Gisada Pure Perfection</h1>
+                    <h1 class="product-title">Jean Paul Perfection</h1>
                     <p class="product-category text-uppercase small font-weight-bold" style="color: var(--secondary-color);">PARFUMS</p>
                     <p class="product-description">
                         Pure Perfection is een meesterwerk van Gisada dat de essentie van luxe en verfijning vastlegt. 

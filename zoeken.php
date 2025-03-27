@@ -58,3 +58,4 @@ elseif (!empty($category)) {
 header("Location: error-zoeken.php");
 exit();
 ?>
+openssl_free_key
